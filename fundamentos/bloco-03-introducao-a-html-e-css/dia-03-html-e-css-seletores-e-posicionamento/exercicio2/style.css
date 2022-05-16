@@ -1,0 +1,42 @@
+.super-mario {
+    width: 200px;
+    position: absolute;
+    left: 10px;
+  }
+  
+  .goomba {
+    width: 100px;
+    left: 60px;
+    top: 400px;
+    position: absolute;
+  }
+  
+  .baloon {
+      position: absolute;
+      left: 208px;
+      top: 200px;
+  
+  }
+  
+  .speach {
+    font-size: 25px;
+    position: absolute;
+    left: 230px;
+    top: 240px;
+    color: black;
+    z-index: 1;
+    
+  }
+  
+  .bowser {
+    width: 200px;
+    top: 360px;
+    position: absolute;
+    left: 470px;
+  }
+
+
+ /* Personagens pertencentes à Nintendo©
+1 - Posicione o Mário acima do Goomba.
+2 - Posicione a tag p para que fique dentro do balão de fala.
+3 - Posicione o balão para que se torne uma fala de Bowser.*/
